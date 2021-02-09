@@ -9,4 +9,8 @@
 <h4>Evento Realizado pela Rocketseat</h4>
 <h5>Desenvolvido juntamente ao Mayk Brito</h5>
 
+## 🛠 Tecnologias utilizadas
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
