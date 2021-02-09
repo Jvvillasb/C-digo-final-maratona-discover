@@ -1,7 +1,7 @@
 # Codigo-final-maratona-discover
 
 <h3 align="center">
-    <img alt="Dev.Finaces" title="Dev.Finaces" src="./assets/01.gif" width="600px" />
+    <img alt="Dev.Finaces" title="Dev.Finaces" src="./assets/app.gif" width="600px" />
 </h3>
 
 
